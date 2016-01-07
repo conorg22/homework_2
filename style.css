@@ -1,0 +1,78 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+table {
+    width: 100%;
+    
+}
+
+.cell_left {
+    width: 300px;
+    margin: 10px;
+    border: 1px dotted blue;
+    background-color: white;
+    padding: 40px 20px 30px 20px;
+    vertical-align: top;
+    
+}
+
+.cell_left p {
+    margin: 0px;
+    font-size: 18px;
+    border: none;
+    
+    
+}
+
+.cell_center {
+    margin: 10px;
+    border: 1px dotted blue;
+    background-color: white;
+    padding: 40px 20px 30px 20px;
+    vertical-align: top;
+    
+    
+}
+
+.pic {
+    width: 100%;
+    
+}
+
+.cell_center p {
+    text-align: left;
+    border: none;
+    margin: 0px;
+    padding: 20px 0px 20px 0px;
+    font-size: 18px;
+        
+}
+
+.cell_right {
+    margin: 10px;
+    border: 1px dotted blue;
+    background-color: white;
+    padding: 40px 20px 30px 20px;
+    vertical-align: top;
+    
+    
+}
+.cell_right p {
+    margin: 0px;
+    text-align: center;
+    border: none;
+    font-size: 22px;
+    padding: 0px;
+    }
+
+.footer {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 22px;
+}
